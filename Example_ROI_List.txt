@@ -1,0 +1,8 @@
+Accumbens
+Caudate
+Claustrum
+Thalamus
+Pallidum
+Putamen
+Red-nucleus
+Substancia-nigra
